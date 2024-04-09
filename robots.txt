@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tamarajafar.github.io/al-folio/sitemap.xml
+Sitemap: https://tamarajafar.github.io/sitemap.xml
